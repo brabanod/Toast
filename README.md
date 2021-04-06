@@ -6,13 +6,15 @@ Easy to use toast for iOS styled like Apple's system toasts.
 
 ### Swift Package Manager
 
-Add `CameraManager` as a dependency in your `Package.swift` file:
+Add `Toast` as a dependency in your `Package.swift` file:
 
+```swift
 let package = Package(
     dependencies: [
         .Package(url: "https://github.com/columbbus/Toast", from: "1.0.0")
     ]
 )
+```
 
 
 
