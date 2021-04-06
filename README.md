@@ -1,4 +1,4 @@
-# Toast
+# 🍞 Toast
 
 Easy to use toast for iOS styled like Apple's system toasts.
 
