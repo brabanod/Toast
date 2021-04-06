@@ -1,6 +1,6 @@
 # 🍞 Toast
 
-Easy to use toast for iOS styled like Apple's system toasts.
+Easy to use toast for iOS, styled like Apple's system toasts.
 
 <p align="center">
   <img src="https://github.com/columbbus/toast/blob/master/Resources/hero.png?raw=true" alt="Toast" width="500"/>
