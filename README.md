@@ -3,7 +3,7 @@
 Easy to use toast for iOS, styled like Apple's system toasts.
 
 <p align="center">
-  <img src="https://github.com/columbbus/toast/blob/master/Resources/hero.png?raw=true" alt="Toast" width="500"/>
+  <img src="https://github.com/brabanod/toast/blob/master/Resources/hero.png?raw=true" alt="Toast" width="500"/>
 </p>
 <br>
 
@@ -16,7 +16,7 @@ Add `Toast` as a dependency in your `Package.swift` file:
 ```swift
 let package = Package(
     dependencies: [
-        .Package(url: "https://github.com/columbbus/Toast", from: "1.0.0")
+        .Package(url: "https://github.com/brabanod/Toast", from: "1.0.0")
     ]
 )
 ```
